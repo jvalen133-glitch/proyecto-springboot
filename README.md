@@ -1,3 +1,4 @@
+
 # 🛠 Proyecto Formativo - inventario, pedido ventas de WURGUER
 
 Este proyecto fue desarrollado como parte del taller de formación en desarrollo de aplicaciones con Spring Boot y frontend. El objetivo es gestionar productos y proveedores mediante una API REST conectada a una base de datos MySQL, y mostrar los datos en una interfaz web.
@@ -37,3 +38,6 @@ Este proyecto fue desarrollado como parte del taller de formación en desarrollo
 
    ```bash
    ./mvnw spring-boot:run
+=======
+# proyecto-springboot
+
